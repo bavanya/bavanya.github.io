@@ -5,5 +5,6 @@ This website includes the following about me-
 2. Research interests
 3. Notes on statistics, probability and probabilistic ML.
 4. Links to my other web app projects.
+5. Project Ideas
 
 I have also included few concepts, papers, libraries and blogs that I found interesting. They are all on statistics, probability and probabilistic ML.
